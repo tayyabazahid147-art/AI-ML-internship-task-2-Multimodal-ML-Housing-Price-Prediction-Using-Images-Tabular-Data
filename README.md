@@ -4,13 +4,18 @@
 To build a machine learning model that predicts housing prices using both tabular data and image data by applying CNN-based feature extraction and feature fusion techniques.
 # Dataset Description
 Name: SoCal2 Housing Dataset
+
 Type: Multimodal dataset (Tabular + Images)
+
 Source: Provided dataset / course dataset (SoCal2)
+
 Description:
 The dataset contains housing-related tabular features along with corresponding house images used for multimodal regression.
 Components:
 Tabular data: area, bedrooms, bathrooms, location-related features, etc.
+
 Image data: house exterior/interior images mapped using unique IDs.
+
 Target Variable: House price
 
 # Methodology / Approach
