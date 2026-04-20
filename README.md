@@ -1,4 +1,4 @@
-Multimodal Housing Price Prediction
+## Multimodal Housing Price Prediction
 # Objective
 
 To build a machine learning model that predicts housing prices using both tabular data and image data by applying CNN-based feature extraction and feature fusion techniques.
