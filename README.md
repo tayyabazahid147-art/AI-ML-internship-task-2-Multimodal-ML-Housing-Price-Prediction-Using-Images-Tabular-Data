@@ -24,7 +24,7 @@ Model successfully learned patterns from both image and tabular data
 Feature fusion improved prediction accuracy
 CNN helped extract meaningful visual representations
 RMSE and MAE showed reasonable prediction error
-#Technologies Used
+# Technologies Used:
 Python
 TensorFlow / Keras
 NumPy, Pandas
